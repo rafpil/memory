@@ -1,4 +1,7 @@
 # Memory - a simple game
+
+## Click to view the page on the server: https://rafpil.github.io/memory/
+
 The game is to uncover a pair of the same cards. 
 The player must click in to two cards. 
 If these are the same cards disappear from the board, otherwise they will be turned back and the player will have about 1 sec.
